@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HarizMiddleWare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7664a4ed778616979879ffad41daad8490f93b15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6381e88c888d74f4e95e9c0f5e1f0dc9859a5c20")]
 [assembly: System.Reflection.AssemblyProductAttribute("HarizMiddleWare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HarizMiddleWare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
